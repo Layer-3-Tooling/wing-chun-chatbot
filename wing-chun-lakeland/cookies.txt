@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sifuochwingchun.com	TRUE	/	FALSE	1999999999	pbid	b25ac26d6551c2e1e78db8971799d022e31d6d315ab660ff3a96e874f222ac9b
+
